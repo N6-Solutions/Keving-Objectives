@@ -42,7 +42,7 @@ c. Conduct periodic access reviews on Windows Server 2019 and promptly remove un
 
 ### 5. Network Segmentation using pfSense 2.7.1:
 a. Implement micro-segmentation using pfSense 2.7.2 to limit lateral movement within the network.
-b. Use VLAN segmentation on pfSense 2.7.1 to logically separate network traffic by departments.
+b. Use VLAN segmentation on pfSense 2.7.1 to logically separate network traffic by the department.
 c. Apply access control lists (ACLs) on pfSense 2.7.1 to control communication between segments and enforce the principle of least privilege.
 
 ### 6. Regular Security Audits and Scans:
@@ -68,7 +68,7 @@ c. Conduct post-incident analysis to identify root causes and improve incident r
 ### 10. Employee Training and Awareness:
 a. Provide ongoing cybersecurity training to all employees to reinforce security awareness.
 b. Conduct phishing simulations to test employees' ability to recognize and report phishing attempts.
-c. Encourage employees to promptly report security concerns or incidents to the IT team.
+c. Encourage employees to report security concerns or incidents to the IT team promptly.
 
 ### 11. Policy Enforcement:
 a. Enforce security policies consistently and communicate them clearly to all employees.
