@@ -8,4 +8,4 @@ This repo outlines the objectives for the Ops 301: VPN Setup
 - Demonstrate successful access to a file server, Active Directory, or other network resource on the other end of the tunnel.
 
 ### Contribution 
-[VLAN Implementatino and VM Deployment](https://docs.google.com/document/d/1JUjfxTtnjGKJIcgCPQiJ_IeMqXjCw6BISAx715UkNLA/edit)
+[VPN Setup]([https://docs.google.com/document/d/1JUjfxTtnjGKJIcgCPQiJ_IeMqXjCw6BISAx715UkNLA/edit](https://docs.google.com/document/d/1JUjfxTtnjGKJIcgCPQiJ_IeMqXjCw6BISAx715UkNLA/edit?usp=sharing)https://docs.google.com/document/d/1JUjfxTtnjGKJIcgCPQiJ_IeMqXjCw6BISAx715UkNLA/edit?usp=sharing)
